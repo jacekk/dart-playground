@@ -1,0 +1,4 @@
+name: pub_get_started
+
+dependencies:
+  args: ^1.5.0
