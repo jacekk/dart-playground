@@ -1,0 +1,4 @@
+name: conditions
+
+dependencies:
+  args: ^1.5.0
